@@ -113,4 +113,5 @@ class TileEntityStandartNeutron(generatedTime: Int): TileLudicrous(), IInventory
     override fun hasCustomInventoryName(): Boolean {
         return false
     }
+
 }

@@ -7,5 +7,7 @@ class BlockRegister: BlockRegisterHelper() {
         registerStandartNeutron(60, "standart_neutron_3")
         registerStandartNeutron(40, "standart_neutron_4")
         registerStandartNeutron(20, "standart_neutron_5")
+
+        registerImprovedNeutron("improved_neutron")
     }
 }
