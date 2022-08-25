@@ -20,9 +20,9 @@ buildscript {
 apply plugin: 'kotlin'
 apply plugin: 'forge'
 
-version = "1.0"
-group = "kwork"
-archivesBaseName = "KWork"
+version = "0.1"
+group = "evaritia"
+archivesBaseName = "Evaritia"
 
 targetCompatibility = JavaVersion.VERSION_1_8
 sourceCompatibility = JavaVersion.VERSION_1_8

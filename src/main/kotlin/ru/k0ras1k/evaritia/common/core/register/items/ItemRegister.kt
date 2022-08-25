@@ -5,5 +5,7 @@ class ItemRegister(): ItemRegisterHelper() {
         registerNeutronUpgrade("upgrade_neutron_stack")
         registerNeutronUpgrade("upgrade_neutron_meta")
         registerNeutronUpgrade("upgrade_neutron_time")
+
+        registerWorldBreaker()
     }
 }

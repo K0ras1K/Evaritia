@@ -62,6 +62,6 @@ class ContainerStandartNeutron(player: InventoryPlayer, machine: TileEntityStand
             slot.onPickupFromSlot(entityPlayer, itemstack1)
         }
 
-        return itemstack!!
+        return itemstack
     }
 }
